@@ -1,3 +1,5 @@
+# Question 1
+
 # Task 1: Code Correction
 # weather = "sunny"
 # if weather == "sunny":
@@ -14,6 +16,7 @@
 # elif mood.lower() == "sad":
 #     print("I hope your day gets better!")
 
+# Question 2
 
 # Task 1: Code Correction
 # Pi_value = 3.14
@@ -26,18 +29,7 @@
 # user_location = "New York"  # Good
 # MAX_LIMIT = 1000 # Because for constants, we can use all upper case
 
-
-# Task 1: Code Correction
-# variable_a = "Hello, World!"
-# variable_b = 23
-# variable_c = 3.14
-# variable_d = True
-
-# print(f"variable_a is {type(variable_a)}")
-# print(f"variable_b is {type(variable_b)}")
-# print(f"variable_c is {type(variable_c)}")
-# print(f"variable_d is {type(variable_d)}")
-
+# Question 3
 
 # Task 1: Grocery Store Math
 # water = 1.5
@@ -52,21 +44,3 @@
 # interest_rate = 0.07
 # total_amount = initial_amount * (1+interest_rate)
 # print(f"The total amount is ${total_amount}")
-
-
-# Task 1: Validating Calculations
-# calculate_normal = 5 * 4 + 3 - 2 * 8
-# calculate_parentheses = (5 * 4) + 3 - (2 * 8)
-# print(f"Result of normal calculation: {calculate_normal}")
-# print(f"Result of calculation with parentheses: {calculate_parentheses}")
-
-# if calculate_normal == calculate_parentheses:
-#     print("The results match.")
-# else:
-#     print("The results don't match.")
-
-
-# Task 2: Mix and Match
-# (9 + 9 > 10) or (3 * 3 == 9)
-# result = (9 + 9 > 10) or (3 * 3 == 9)
-# print(f"The result is {result}")
